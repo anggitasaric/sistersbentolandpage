@@ -30,8 +30,6 @@ SistersBento adalah usaha homemade milik dua sahabat yang suka masak dan hal-hal
 - CSS3
 - JavaScript
 
----
-
 ## 📁 Struktur File Kami
 
 ```
@@ -54,8 +52,4 @@ mixkit-fairy-glitter-867.wav
 
 - WhatsApp: [0857-5204-5792](https://wa.me/6285752045792)
 - Instagram: [@sistersbento](https://instagram.com/sistersbento)
-
-## 📝 Lisensi
-
-Free for educational and personal use.  
 © 2025 SistersBento. All rights reserved. 🍓
