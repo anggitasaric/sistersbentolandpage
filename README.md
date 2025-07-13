@@ -34,6 +34,7 @@ SistersBento adalah usaha homemade milik dua sahabat yang suka masak dan hal-hal
 
 ```
 index.html
+style.css
 logosistersBento.png
 gambar_1_bento_cinta_ayam.png
 gambar_2_bento_curry_ceria.png
